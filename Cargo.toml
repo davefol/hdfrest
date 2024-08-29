@@ -6,7 +6,6 @@ license = "MIT"
 description = "A HDF REST client"
 homepage = "https://github.com/davefol/hdfrest"
 readme = "README.md"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+keywords = ["hdf5", "hdf"]
 
 [dependencies]
